@@ -983,6 +983,10 @@ void send_digitizer(report_digitizer_t *report) {
 /*******************************************************************************
  * main
  ******************************************************************************/
+__attribute__((weak)) void early_hardware_init_pre(void) {}
+
+__attribute__((weak)) void early_hardware_init_post(void) {}
+
 /** \brief Setup MCU
  *
  * FIXME: Needs doc
@@ -1016,11 +1020,14 @@ static void setup_usb(void) {
 }
 
 void protocol_setup(void) {
+    early_hardware_init_pre();
+
 #ifdef MIDI_ENABLE
     setup_midi();
 #endif
 
     setup_mcu();
+    early_hardware_init_post();
     usb_device_state_init();
 }
 
