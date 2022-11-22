@@ -1,0 +1,7 @@
+lily58.jpg:
+keymaps/debug/keys.png:     https://i.imgur.com/CF0PYu5.png
+keymaps/default/layer0.png: https://i.imgur.com/sq8Rql7.png
+keymaps/default/layer1.png: https://i.imgur.com/baSE2OJ.png
+keymaps/default/layer2.png: https://i.imgur.com/CRnDa6N.png
+keymaps/default/layer3.png: https://i.imgur.com/QbCiTcy.png
+

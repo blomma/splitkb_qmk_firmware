@@ -1,0 +1,7 @@
+corne.jpg:                  https://i.imgur.com/t4EQ77L.jpg
+keymaps/debug/keys.png:     https://i.imgur.com/y5zWjsZ.png
+keymaps/default/layer0.png: https://i.imgur.com/Ri5cTHq.png
+keymaps/default/layer1.png: https://i.imgur.com/9h6ZRQL.png
+keymaps/default/layer2.png: https://i.imgur.com/U1pf7pJ.png
+keymaps/default/layer3.png: https://i.imgur.com/A6z1DCb.png
+
