@@ -3,5 +3,5 @@ keymaps/debug/keys.png:     https://i.imgur.com/1qRAV6s.png
 keymaps/default/layer0.png: https://i.imgur.com/uk6ckvf.png
 keymaps/default/layer1.png: https://i.imgur.com/6t0ErtE.png
 keymaps/default/layer2.png: https://i.imgur.com/URCBKfq.png
-keymaps/default/layer3.png: https://i.imgur.com/URCBKfq.png
+keymaps/default/layer3.png: https://i.imgur.com/b4tacMe.png
 
