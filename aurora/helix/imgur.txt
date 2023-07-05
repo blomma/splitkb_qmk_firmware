@@ -1,0 +1,7 @@
+helix.jpg:
+keymaps/debug/keys.png:     https://i.imgur.com/NRZBoty.png
+keymaps/default/layer0.png: https://i.imgur.com/2E4hHxw.png
+keymaps/default/layer1.png: https://i.imgur.com/p68qrBz.png
+keymaps/default/layer2.png: https://i.imgur.com/7T4KSW6.png
+keymaps/default/layer3.png: https://i.imgur.com/YbbwHSD.png
+
