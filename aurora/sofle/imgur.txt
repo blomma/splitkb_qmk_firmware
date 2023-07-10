@@ -1,4 +1,4 @@
-sofle.jpg:
+sofle.jpg:		    https://i.imgur.com/8MlWV7h.jpg
 keymaps/debug/keys.png:     https://i.imgur.com/1qRAV6s.png
 keymaps/default/layer0.png: https://i.imgur.com/uk6ckvf.png
 keymaps/default/layer1.png: https://i.imgur.com/6t0ErtE.png
