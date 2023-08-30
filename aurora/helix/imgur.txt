@@ -1,4 +1,4 @@
-helix.jpg:
+helix.jpg:		    https://i.imgur.com/zzzW8Tu.jpg
 keymaps/debug/keys.png:     https://i.imgur.com/NRZBoty.png
 keymaps/default/layer0.png: https://i.imgur.com/2E4hHxw.png
 keymaps/default/layer1.png: https://i.imgur.com/p68qrBz.png
