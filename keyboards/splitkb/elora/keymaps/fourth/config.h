@@ -25,6 +25,11 @@
 #undef RGB_MATRIX_TIMEOUT
 #define RGB_MATRIX_TIMEOUT 180000
 
+// Enable rapid switch from tap to hold, disables double tap hold auto-repeat.
+#undef QUICK_TAP_TERM
+#define QUICK_TAP_TERM 0
+
+// Configure the global tapping term (default: 200ms)
 #undef TAPPING_TERM
 #define TAPPING_TERM 195
 
