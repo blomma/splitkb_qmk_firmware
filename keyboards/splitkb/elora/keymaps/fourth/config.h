@@ -36,9 +36,11 @@
 #define LAYER_STATE_8BIT
 
 // Sets the default brightness value
+#undef RGB_MATRIX_DEFAULT_VAL
 #define RGB_MATRIX_DEFAULT_VAL 70
 
 // Sets the default animation speed
+#undef RGB_MATRIX_DEFAULT_SPD
 #define RGB_MATRIX_DEFAULT_SPD 10
 
 #define SPLIT_LAYER_STATE_ENABLE
